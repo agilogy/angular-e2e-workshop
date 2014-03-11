@@ -1,0 +1,13 @@
+{
+  "name": "angular-e2e-workshop",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Manel Perez <manel.perez@agilogy.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "karma": "~0.12.0",
+    "karma-ng-scenario": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.2",
+    "karma-firefox-launcher": "~0.1.3"
+  }
+}
